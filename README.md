@@ -32,7 +32,7 @@ Next, inferential statistics are employed to test hypotheses about property pric
 
 ### Business Objectives:-
 
-1. For the suburb Altona, it is postulated that a typical property sells for $800,000. Use the data at hand to test this assumption. Is the typical property price really $800,000 or has it increased? Use a significance level of 5%. 
+1. For the suburb Altona, it is postulated that a typical property sells for $800,000. Use the data at hand to test this assumption. Is the typical property price really $800,000 or has it increased? Use a significance level of 5% 
 
 2. For the year 2016, is there any difference in prices of properties sold in the summer months vs winter months? Consider months from October till March as winter months and the rest as summer months. Use a significance level of 5%. 
 
