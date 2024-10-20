@@ -2,7 +2,7 @@
 
 ### Project Description:-
 
-This project aims to analyze real estate prices in Australia through a detailed process starting with Exploratory Data Analysis (EDA). EDA involves filling null values, removing duplicates, detecting and removing outliers, extracting date and year into new variables, assigning data types, and understanding the nature of variables—categorical, numerical discrete, or continuous—across the dataset.
+This project aims to analyze real estate prices in Australia through a detailed process starting with Exploratory Data Analysis (EDA). EDA involves filling null values, removing duplicates, detecting and handling outliers, extracting date and year into new variables, assigning data types, and understanding the nature of variables—categorical, numerical discrete, or continuous—across the dataset.
 
 Next, inferential statistics are employed to test hypotheses about property prices, room availability, and other parameters. Normality of variables is checked using Q-Q plots and the Shapiro-Wilk test. Based on business requirements, appropriate hypotheses are formulated. This ensures that statistical testing aligns with the research goals.
 
